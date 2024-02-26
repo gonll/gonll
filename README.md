@@ -5,7 +5,7 @@
 <h1 align="center">Sr. Typescript/ ReactJS / NodeJS Developer<h1>
 
 <div id="header" align="center">
- <img src="https://i.giphy.com/VTtANKl0beDFQRLDTh.webp"/>
+ <img src="https://i.giphy.com/1C8bHHJturSx2.webp"/>
   
 
   <h6>TS developer for <a href="https://www.dnv.com/">@DNV</a> at <a href="https://10pearls.com/">@10Pearls</a></h6>
