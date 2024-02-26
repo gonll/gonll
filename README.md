@@ -73,12 +73,7 @@ based companies such as Autofi and DNV.
 
 <hr />
 
-### NPM Packages 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-[Commitment](https://www.npmjs.com/package/commitment)
-
-[Breadth-first Search](https://www.npmjs.com/package/breadth-first-search)
 
 
 
