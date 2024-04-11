@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Avalon](https://www.avaloncommunities.com/)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning**: Python, jupyter, numpy, pandas, matplotlib and so on.
 
 - 💬 Ask me about **Typescript, Node, React and Vue!**
 
