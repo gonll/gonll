@@ -8,7 +8,7 @@
  <img src="https://i.giphy.com/1C8bHHJturSx2.webp"/>
   
 
-  <h6>TS developer for <a href="https://www.avalonconsulting.it/en/home-page/">@Avalon</a></h6>
+  <h6>TS developer for <a href="https://www.avaloncommunities.com/">@Avalon</a></h6>
 </div>
 
 <h1 align="center">Hi 👋, I'm Gonzalo Herrera Llobeta</h1>
