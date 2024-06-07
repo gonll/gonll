@@ -14,8 +14,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Herrera Llobeta</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Avalon](https://www.avaloncommunities.com/)
-
 - 🌱 I’m currently learning **Machine learning**: Python, jupyter, numpy, pandas, matplotlib and so on.
 
 - 💬 Ask me about **Typescript, Node, React and Vue!**
